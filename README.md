@@ -1,4 +1,6 @@
-# Hexapod-Spider-Robot-Open-Source-
+<p align="center">
+  <strong>Hexapod Spider Robot [Open-Source]</strong>
+</p>
 
 <p align="center">
   A DEMO hexapod spider robot that is currently considered as an ongoing project. 
