@@ -7,4 +7,4 @@ A DEMO hexapod spider robot that is currently considered as an ongoing project.
   <em>HEXAPOD ROBOT SPIDER - RENDERED SCENE</em>
 </p>
 
-More instructions or information would be added soon. 
+More instructions or info will be added soon. 
